@@ -1,2 +1,2 @@
-# TPU
-Tsanscoding Processor Component
+# PONG
+Pong web application
